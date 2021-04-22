@@ -1,0 +1,29 @@
+{
+  "name": "simple-array-devextreme-pivot-grid-forked",
+  "description": "The PivotGrid is a high-performance, enterprise-ready UI component optimized for multi-dimensional data analysis. It allows your end users to easily arrange and summarize information in a cross-tabular format. In this demo, the PivotGrid’s simplicity of use is illustrated. Sorting and filtering are enabled so you can sort data in ascending or descending order and by summary values. You can drag and drop fields to reorganize the PivotGrid and change filtering properties to analyze data more efficiently.\n",
+  "dependencies": {
+    "rrule": "2.6.6",
+    "react-dom": "16.14.0",
+    "react": "16.14.0",
+    "prop-types": "15.7.2",
+    "preact": "10.5.13",
+    "luxon": "1.26.0",
+    "jszip": "3.6.0",
+    "es6-object-assign": "1.1.0",
+    "devextreme-react": "20.2.6",
+    "devextreme-quill": "0.10.3",
+    "devextreme": "20.2.6",
+    "devexpress-gantt": "2.0.24",
+    "devexpress-diagram": "2.0.18"
+  },
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
